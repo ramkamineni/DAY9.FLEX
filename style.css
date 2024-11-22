@@ -36,11 +36,14 @@ h2
     margin-left: -40px;
     margin-top: 15px;
     
+    
 }
 #svg
 {
     height: 15px;
     margin-top: 15px;
+   
+
 
 }
 #s1
@@ -51,6 +54,7 @@ h2
 {
     display: flex;
     flex-direction: row;
+
 
 }
 #ram
